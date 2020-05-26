@@ -1,2 +1,1 @@
-# hangmanPersonal
-My first project as a junior
+Simple Hangman in console version.
